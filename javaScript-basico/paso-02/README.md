@@ -18,5 +18,5 @@ En JavaScript terminamos las declaraciones con punto y coma. Los nombres de vari
 
 ### Ejercicio
 
-1. Utilice la palabra clave **var** para crear una variable llamada **myName**.
+1. En main.js, utiliza la palabra clave **var** para crear una variable llamada **myName**.
 
